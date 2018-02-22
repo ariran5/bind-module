@@ -1,0 +1,19 @@
+{
+  "name": "bind-module",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ariran5/bind-module.git"
+  },
+  "author": "Arian Shapiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ariran5/bind-module/issues"
+  },
+  "homepage": "https://github.com/ariran5/bind-module#readme"
+}
